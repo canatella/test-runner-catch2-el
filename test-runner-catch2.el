@@ -1,4 +1,4 @@
-;;; test-runner-catch2.el -- Test runner for catch2 -*- lexical-binding: t; -*-
+;;; test-runner-catch2.el --- Test runner for catch2 -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Damien Merenne <dam@cosinux.org>
 
